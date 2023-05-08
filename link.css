@@ -1,0 +1,45 @@
+body{
+	text-align:center;
+	color:black;
+	align-items: center;
+	justify-content: center;
+}
+.click{
+	font-family:helvetica, sans-serif;
+	font-size: 70px;
+	color: #C71585;
+}
+.small{
+	font-size: 30px;
+	padding-bottom: 50px;
+	color:white;
+}
+form{
+	padding-top: 70px;
+	padding-bottom: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: auto;
+	text-align: center;
+	align-items: center;
+}
+.a{
+	background-color: white;
+	color: black;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+}
+.uitm{
+	color: black;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+}
+.student{
+	color: black;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+}

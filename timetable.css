@@ -1,0 +1,22 @@
+.Main{
+	border: 5px solid white;
+	margin-bottom: 10%;
+	margin: auto;
+	min-height: 470px;
+	min-width: 200px;
+	width: 55%;
+	background-color: #F5B7B1;
+}
+table, th, td{
+	border: 3px solid wheat;
+	border-collapse: collapse;
+	align-items: center;
+	text-align: center;
+	margin: auto;
+	
+}
+
+th, td{
+	background-color: #D988880;
+	margin-bottom: 30px;
+}

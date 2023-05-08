@@ -1,0 +1,42 @@
+body {
+	color:black;
+	align-items: center;
+}
+.title {
+	font-family: Georgia;
+}
+
+table{
+	margin: auto;
+	text-align: left;
+	padding: 30px;
+	font-size: 20px;
+}
+	
+.fence{
+	border: 1px solid white;
+	width: 50%;
+	min-height: 500px;
+	padding-bottom: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: auto;
+	text-align: center;
+	background: SeaShell;
+	align-items: center;	
+}
+	
+h2{
+	padding-bottom: 1px;
+	font-size: 60px;
+	margin-bottom: 0;
+	font-family: "Brush Script MT", cursive;
+	color: #ffab91;
+}
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+input{
+	width: 120%;
+}
